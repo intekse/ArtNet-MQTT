@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+#title			:artNetServer.py
+#description	:Receives artNet messages and updates MQTT server
+#author			:Dan
+#date			:20161220
+#version		:0.1
+#usage			:./artNetServer.py
+#notes			:
+#python_version	:3.4.2
+#==============================================================================
 
 import socket
 import struct
